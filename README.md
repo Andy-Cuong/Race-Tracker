@@ -1,7 +1,7 @@
-Race tracker app
+Race Tracker app
 =================================
 
-The Race tracker app simulates the progress of two players in a race. The idea is to demonstrate 
+Solution code by learner for the [Race Tracker app](https://github.com/google-developer-training/basic-android-kotlin-compose-training-race-tracker) that simulates the progress of two players in a race. The idea is to demonstrate 
 basic concepts of Kotlin coroutines. A user can start, pause, or reset the race with buttons in the 
 UI.
 
